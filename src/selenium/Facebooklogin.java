@@ -16,7 +16,7 @@ public class Facebooklogin {
 //			WebElement uname = driver.findElement(By.xpath("//input[@class='inputtext _55r1 _6luy']"));
 //			uname.sendKeys("pratyushjha086@gmail.com");
 //			WebElement pwd = driver.findElement(By.xpath("//input[@class='inputtext _55r1 _6luy _9npi']"));
-//			pwd.sendKeys("Jha@2580");
+//			pwd.sendKeys("Jha659656");
 //			WebElement login= driver.findElement(By.xpath("//button[@type='submit']"));
 //			login.click();
 			String parentwid = driver.getWindowHandle();
